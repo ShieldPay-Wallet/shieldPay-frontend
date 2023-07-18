@@ -1,0 +1,14 @@
+#label-name{
+    color: rgba(0, 0, 0, 0.60);
+    font-size: 27.395px;
+    font-family: Roboto;
+    font-weight: 400;
+}
+.forgot-password{
+    color: rgba(0, 0, 0, 0.60) !important;
+    font-size: 27.395px;
+    
+}
+.form-check-input{
+    background-color: blueviolet;
+}
